@@ -56,23 +56,7 @@ Key metrics and visuals include:
 
 ![Executive Summary](images/executive-summary.png)
 
-### 2. Department Details
-
-The Department Details page supports a deeper comparison of operational performance across hospital departments.
-
-Key metrics and visuals include:
-
-- Average Wait Time
-- Average Patient Satisfaction by Department
-- Total Visits by Department
-- Gross Billed Revenue by Department
-- Top Treatment Types by Department
-- Weekday vs Weekend Visits by Department
-- Department filtering for focused analysis
-
-![Department Details](images/department-details.png)
-
-### 3. Patient Analysis
+### 2. Patient Analysis
 
 The Patient Analysis page examines the characteristics and visit behaviour of the hospital's patient population.
 
@@ -88,6 +72,22 @@ Key metrics and visuals include:
 - Patients by Coverage Type
 
 ![Patient Analysis](images/patient-analysis.png)
+
+### 3. Department Details
+
+The Department Details page supports a deeper comparison of operational performance across hospital departments.
+
+Key metrics and visuals include:
+
+- Average Wait Time
+- Average Patient Satisfaction by Department
+- Total Visits by Department
+- Gross Billed Revenue by Department
+- Top Treatment Types by Department
+- Weekday vs Weekend Visits by Department
+- Department filtering for focused analysis
+
+![Department Details](images/department-details.png)
 
 ## Data Model
 
